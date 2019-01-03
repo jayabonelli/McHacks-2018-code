@@ -1,0 +1,2 @@
+Analyzes IPA (International Phonetic Alphabet) of the foreign word provided and provides similar sounding English words to help understand vowel sounds in foreign language.
+We used the API Epitran to convert letters and sounds into phonetic symbols. 
